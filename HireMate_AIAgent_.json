@@ -1,0 +1,9 @@
+{
+  "project_name": "HireMate AI",
+  "student_name": "Bhuvanesh P",
+  "department": "B.Tech AI & DS",
+  "college": "J.N.N Institute of Engineering",
+  "github_repository": "https://github.com/Bhuvish77/IBM_1_PROJECT.git",
+  "presentation": "HireMate_AIAgent_Submission.pdf",
+  "description": "An AI Agent project that demonstrates intelligent hiring processes using natural language processing and machine learning techniques. The agent can analyze resumes, conduct preliminary interviews, and provide recommendations for hiring decisions."
+}
