@@ -1,0 +1,193 @@
+{
+  "project": {
+    "title": "Bountiful AI Assistant",
+    "version": "1.0.0",
+    "category": "Artificial Intelligence",
+    "type": "Recipe Recommendation & Meal Planning Assistant",
+    "status": "Completed",
+
+    "developer": {
+      "name": "Bhuvanesh",
+      "role": "Aspiring AI & Backend Developer",
+      "college": "J.N.N Institute of Engineering",
+      "department": "B.Tech AI & DS",
+      "degree": "Bachelor of Engineering",
+      "year": "First Year"
+    },
+
+    "description": "Bountiful AI Assistant is an AI-powered recipe and meal-planning assistant that helps users discover recipes based on available ingredients, dietary preferences, cuisine, cooking time, and cooking skill level. The assistant provides personalized meal recommendations, nutritional insights, ingredient substitutions, and step-by-step cooking guidance while helping reduce food waste.",
+
+    "problemStatement": "People often struggle to decide what to cook with the ingredients they already have. Meal planning can be time-consuming, and many users lack personalized recipe recommendations based on dietary needs and available ingredients, leading to unnecessary food waste.",
+
+    "solution": "Bountiful AI Assistant uses Generative AI to recommend personalized recipes, generate meal plans, analyze nutrition, suggest ingredient substitutions, and provide easy cooking instructions based on user preferences.",
+
+    "objectives": [
+      "Recommend recipes using available ingredients.",
+      "Generate personalized meal plans.",
+      "Provide nutritional analysis.",
+      "Support multiple dietary preferences.",
+      "Reduce food waste.",
+      "Suggest ingredient substitutions.",
+      "Offer step-by-step cooking instructions.",
+      "Promote healthy eating habits."
+    ],
+
+    "features": [
+      {
+        "feature": "AI Recipe Recommendation",
+        "description": "Suggests recipes based on available ingredients."
+      },
+      {
+        "feature": "Meal Planner",
+        "description": "Creates daily and weekly meal plans."
+      },
+      {
+        "feature": "Nutrition Analysis",
+        "description": "Provides calorie and nutrient information."
+      },
+      {
+        "feature": "Dietary Preference Support",
+        "description": "Supports Vegetarian, Vegan, Keto, Gluten-Free and High-Protein diets."
+      },
+      {
+        "feature": "Ingredient Substitution",
+        "description": "Suggests alternative ingredients."
+      },
+      {
+        "feature": "Cooking Guidance",
+        "description": "Provides step-by-step cooking instructions."
+      },
+      {
+        "feature": "Food Waste Reduction",
+        "description": "Suggests recipes using leftover ingredients."
+      },
+      {
+        "feature": "Smart Search",
+        "description": "Search recipes by cuisine, ingredients, cooking time, and difficulty."
+      }
+    ],
+
+    "technologyStack": {
+      "frontend": [
+        "HTML5",
+        "CSS3",
+        "JavaScript"
+      ],
+      "backend": [
+        "Python",
+        "Flask"
+      ],
+      "database": [
+        "JSON"
+      ],
+      "aiTechnologies": [
+        "IBM watsonx.ai",
+        "IBM watsonx Orchestrate",
+        "Prompt Engineering",
+        "Generative AI"
+      ],
+      "deployment": [
+        "Replit",
+        "GitHub"
+      ]
+    },
+
+    "workflow": [
+      "User enters ingredients or food preferences.",
+      "AI processes the user request.",
+      "Relevant recipes are searched.",
+      "Recipes are ranked according to user preferences.",
+      "Nutrition information is generated.",
+      "Meal plan is created.",
+      "Cooking instructions are displayed.",
+      "Ingredient substitutions are suggested."
+    ],
+
+    "supportedDiets": [
+      "Vegetarian",
+      "Vegan",
+      "Keto",
+      "Gluten-Free",
+      "Low-Carb",
+      "High-Protein"
+    ],
+
+    "supportedCuisines": [
+      "Indian",
+      "Italian",
+      "Chinese",
+      "Mexican",
+      "Japanese",
+      "American",
+      "Mediterranean"
+    ],
+
+    "futureEnhancements": [
+      "Voice Assistant",
+      "Image-Based Ingredient Detection",
+      "Barcode Scanner",
+      "AI Grocery List Generator",
+      "Smart Shopping Assistant",
+      "Fitness Tracker Integration",
+      "Mobile Application",
+      "Multi-language Support"
+    ],
+
+    "advantages": [
+      "Personalized recipe recommendations.",
+      "Saves meal planning time.",
+      "Encourages healthy eating.",
+      "Reduces food waste.",
+      "Supports various diets.",
+      "Easy and user-friendly interface."
+    ],
+
+    "limitations": [
+      "Requires internet connectivity.",
+      "Depends on recipe database availability.",
+      "Nutrition values are approximate.",
+      "Limited regional recipe support."
+    ],
+
+    "sampleInput": {
+      "ingredients": [
+        "Rice",
+        "Chicken",
+        "Onion",
+        "Tomato"
+      ],
+      "diet": "High-Protein",
+      "cuisine": "Indian",
+      "cookingTime": 30,
+      "difficulty": "Easy"
+    },
+
+    "sampleOutput": {
+      "recipeName": "Healthy Chicken Fried Rice",
+      "calories": 485,
+      "protein": "32g",
+      "carbohydrates": "48g",
+      "fat": "11g",
+      "preparationTime": "30 minutes",
+      "difficulty": "Easy",
+      "ingredients": [
+        "Rice",
+        "Chicken",
+        "Onion",
+        "Tomato",
+        "Garlic",
+        "Soy Sauce"
+      ],
+      "instructions": [
+        "Cook the rice.",
+        "Saute onions and garlic.",
+        "Cook the chicken.",
+        "Add vegetables and seasonings.",
+        "Mix with rice.",
+        "Serve hot."
+      ]
+    },
+
+    "projectOutcome": "Bountiful AI Assistant successfully provides intelligent recipe recommendations, personalized meal planning, nutritional insights, and cooking guidance, making cooking easier, healthier, and more efficient through Artificial Intelligence."
+  }
+}
