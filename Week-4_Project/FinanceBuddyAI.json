@@ -1,0 +1,130 @@
+{
+  "project": {
+    "title": "FinanceBuddy AI",
+    "tagline": "Intelligent Personal Finance Assistant",
+    "description": "FinanceBuddy AI is an AI-powered personal finance assistant designed to help users manage their finances efficiently. It enables expense tracking, budget planning, savings goal management, spending analysis, bill reminders, and personalized financial recommendations through natural language conversations.",
+    "category": "Artificial Intelligence",
+    "domain": "Personal Finance",
+    "status": "Completed",
+    "version": "1.0.0"
+  },
+
+  "developer": {
+    "name": "Bhuvanesh",
+    "institution": "J.N.N Institute of Engineering",
+    "department": "B.Tech AI & DS",
+    "role": "Engineering Student"
+  },
+
+  "platform": {
+    "ai_platform": "IBM watsonx Orchestrate",
+    "foundation_model": "IBM Granite",
+    "frontend": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "backend": [
+      "Java",
+      "Spring Boot"
+    ],
+    "database": "MySQL"
+  },
+
+  "objective": {
+    "goal": "To assist users in managing their personal finances through intelligent budgeting, expense tracking, savings planning, and AI-driven financial insights."
+  },
+
+  "features": [
+    {
+      "name": "Expense Tracking",
+      "description": "Records and categorizes daily expenses."
+    },
+    {
+      "name": "Budget Planner",
+      "description": "Creates personalized monthly budgets."
+    },
+    {
+      "name": "Savings Goal Planner",
+      "description": "Helps users achieve financial goals with structured savings plans."
+    },
+    {
+      "name": "Spending Analytics",
+      "description": "Analyzes spending behavior and highlights improvement opportunities."
+    },
+    {
+      "name": "AI Financial Advisor",
+      "description": "Provides personalized budgeting and money-saving suggestions."
+    },
+    {
+      "name": "Bill & EMI Reminders",
+      "description": "Keeps users informed about upcoming payments."
+    },
+    {
+      "name": "Financial Reports",
+      "description": "Generates summaries of income, expenses, and savings."
+    },
+    {
+      "name": "Natural Language Chat",
+      "description": "Allows users to interact using everyday language."
+    }
+  ],
+
+  "workflow": [
+    "User opens FinanceBuddy AI",
+    "User enters a financial query or data",
+    "AI interprets the request",
+    "Financial data is analyzed",
+    "Insights and recommendations are generated",
+    "User receives actionable suggestions"
+  ],
+
+  "sample_prompts": [
+    "Track today's expenses.",
+    "Create a monthly budget for my income.",
+    "Analyze my spending habits.",
+    "Help me plan a savings goal.",
+    "Set reminders for my upcoming bills.",
+    "Give me tips to reduce unnecessary expenses."
+  ],
+
+  "benefits": [
+    "Improves financial awareness",
+    "Encourages better budgeting",
+    "Promotes regular savings",
+    "Provides AI-powered financial insights",
+    "Simplifies expense management",
+    "Supports informed financial decisions"
+  ],
+
+  "future_enhancements": [
+    "Bank account integration",
+    "Receipt scanning using OCR",
+    "Voice-enabled financial assistant",
+    "Multi-currency support",
+    "Investment education module",
+    "Mobile application",
+    "AI-powered financial forecasting"
+  ],
+
+  "target_users": [
+    "Students",
+    "Working Professionals",
+    "Freelancers",
+    "Families",
+    "Small Business Owners"
+  ],
+
+  "keywords": [
+    "Artificial Intelligence",
+    "IBM watsonx Orchestrate",
+    "IBM Granite",
+    "Personal Finance",
+    "Budget Planner",
+    "Expense Tracker",
+    "Savings",
+    "Financial Analytics",
+    "Conversational AI",
+    "Money Management"
+  ]
+}
